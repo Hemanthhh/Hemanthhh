@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m passionate about building scalable software and appl
 - [Portfolio UI](https://www.hemanthvarma.dev)  
   A sleek, modern portfolio to showcase my work and experience.
 
-- Interview Perp Buddy  
+- Interview Prep Buddy  
   An intelligent buddy for interview preparation with curated questions and resources.
 
 ## 📫 Connect with Me
